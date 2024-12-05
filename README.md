@@ -5,7 +5,7 @@ Defense intelligence is increasingly becoming a domain where computers play a pi
 To demonstrate that these types of models are vulnerable to adversarial attacks and should be trained with this in mind.
 
 ## Usage
-Use this model and the adversarial attack to examine how even small amounts of perturbations can fool this AI-spook. This is best accompanied by the report I made this for available in podcast and pdf form [here](google.com). It should go without saying but if you happen to work in espionage please don't deploy this model.
+Use this model and the adversarial attack to examine how even small amounts of perturbations can fool this AI-spook. This is best accompanied by the report I made this for available in [podcast](https://youtu.be/cc8BLP7PI9A) and [pdf](https://archive.org/details/final-project_202412) form. It should go without saying but if you happen to work in espionage please don't deploy this model.
 
 ## Data Sourcing
 Data sourced from this [Kaggle](https://www.kaggle.com/datasets/stuartbladon/declassified-cia-intelligence-reports)
